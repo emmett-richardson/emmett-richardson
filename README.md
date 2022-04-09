@@ -26,8 +26,6 @@
 - I’m looking to collaborate on front/back-end web development and Unity projects!
 - Please reach me at matthewlowe794@gmail.com (for now)
 - You can also reach me at any of my socials, linked near the end
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=epitome87&label=Profile%20views&color=0e75b6&style=flat" alt="epitome87" /> </p>
 
 <hr>
 
