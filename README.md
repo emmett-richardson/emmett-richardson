@@ -109,41 +109,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=matthew-lowe1&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD&hide_border=true" />
   </p>
 </details>
-
-<details>
-  <summary>WakaTime Statistics...</summary>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matthew-lowe1&theme=github_dark" />
-<!--
-    <img src="https://wakatime.com/share/@e3af40dc-cb30-41e1-a35d-9bfdf7ef6f96/64a09240-2538-452d-ae3c-e1384c8c537b.svg" height="300" />
-    <img src="https://wakatime.com/share/@e3af40dc-cb30-41e1-a35d-9bfdf7ef6f96/73305509-532b-4bbd-a3b0-50c6164065bc.svg" height="300" /> 
--->
-    
-  </p>
-</details>
-
 <hr>
 
 
 <!--  Github Trophy Showcase - Hiding this until I get better trophies! -->
 <!-- ### Github Trophy Showcase
-[![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=Epitome87&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=matthew-lowe1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  -->
-### Visit Me On My Socials!
-
-<p align="left">
-  <a href="https://linkedin.com/in/matthew-mcgrath1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-mcgrath1987" height="30" width="40" /></a>
-  <a href="https://fb.com/iepitomei" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a>
-   <a href="https://twitter.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epitome87" height="30" width="40" /></a>
-  <a href="https://codepen.io/matt-mcgrath-the-bold" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matt-mcgrath-the-bold" height="30" width="40" /></a>
-  <a href="https://dribbble.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="epitome87" height="30" width="40" /></a>
-  <a href="https://www.youtube.com//epitome1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="epitome1987" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-
-
-
