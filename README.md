@@ -104,16 +104,16 @@
 <details>
   <summary>Github Statistics...</summary>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Epitome87&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats&border_radius=10&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epitome87&theme=github_dark&layout=compact&disable_animations=false&border_radius=10&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Epitome87&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=matthew-lowe1&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats&border_radius=10&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-lowe1&theme=github_dark&layout=compact&disable_animations=false&border_radius=10&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=matthew-lowe1&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD&hide_border=true" />
   </p>
 </details>
 
 <details>
   <summary>WakaTime Statistics...</summary>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=epitome87&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matthew-lowe1&theme=github_dark" />
 <!--
     <img src="https://wakatime.com/share/@e3af40dc-cb30-41e1-a35d-9bfdf7ef6f96/64a09240-2538-452d-ae3c-e1384c8c537b.svg" height="300" />
     <img src="https://wakatime.com/share/@e3af40dc-cb30-41e1-a35d-9bfdf7ef6f96/73305509-532b-4bbd-a3b0-50c6164065bc.svg" height="300" /> 
