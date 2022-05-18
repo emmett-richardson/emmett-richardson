@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/3253714/139555814-f193936e-736c-49ad-8862-24546e696de1.png" width="150"/>
 <!--   <img src="https://user-images.githubusercontent.com/3253714/139562662-c88bbfd0-176f-4345-a3dc-f2fc0374cf42.png" height="300"/> -->
-  <h1 align="center">Hi, I'm Matthew Lowe</h1>
+  <h1 align="center">Hi, I'm Matthew Taylor</h1>
   <h3 align="center">An indie game creator and aspiring web developer!</h3>
 </p>
 <!-- ![Github-Header](https://user-images.githubusercontent.com/3253714/139562662-c88bbfd0-176f-4345-a3dc-f2fc0374cf42.png) -->
@@ -9,7 +9,7 @@
 #### A Bit About Me
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557357-181530a3-b19b-4900-9c93-8dbb2ad3cc61.png" alt="Astronaut With Dog" height="75" />
 
-- I live in a small town in California, along with my handsome dog Leon!
+- I live in a small town in NY, along with my handsome dog Leon!
 - In my spare time, I enjoy learning the piano, guitar, and playing video games
 
 #### My Career Goals
@@ -104,9 +104,9 @@
 <details>
   <summary>Github Statistics...</summary>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=matthew-lowe1&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats&border_radius=10&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-lowe1&theme=github_dark&layout=compact&disable_animations=false&border_radius=10&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=matthew-lowe1&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=matthew-taylor1&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats&border_radius=10&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-taylor1&theme=github_dark&layout=compact&disable_animations=false&border_radius=10&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=matthew-taylor1&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD&hide_border=true" />
   </p>
 </details>
 <hr>
@@ -114,5 +114,5 @@
 
 <!--  Github Trophy Showcase - Hiding this until I get better trophies! -->
 <!-- ### Github Trophy Showcase
-[![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=matthew-lowe1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=matthew-taylor1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  -->
