@@ -24,7 +24,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557681-011d8043-365b-40e7-8b01-39e0d6bf0e29.png" height="75" />
 
 - I’m looking to collaborate on front/back-end web development and Unity projects!
-- Please reach me at matthewlowe794@gmail.com (for now)
+- Please reach me at henson.mark109@gmail.com (for now)
 - You can also reach me at any of my socials, linked near the end
 
 <hr>
