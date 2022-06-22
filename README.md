@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/3253714/139555814-f193936e-736c-49ad-8862-24546e696de1.png" width="150"/>
 <!--   <img src="https://user-images.githubusercontent.com/3253714/139562662-c88bbfd0-176f-4345-a3dc-f2fc0374cf42.png" height="300"/> -->
-  <h1 align="center">Hi, I'm Matthew Taylor</h1>
+  <h1 align="center">Hi, I'm Mark Henson</h1>
   <h3 align="center">An indie game creator and aspiring web developer!</h3>
 </p>
 <!-- ![Github-Header](https://user-images.githubusercontent.com/3253714/139562662-c88bbfd0-176f-4345-a3dc-f2fc0374cf42.png) -->
