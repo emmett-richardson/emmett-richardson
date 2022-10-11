@@ -98,21 +98,3 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmett-richardson&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Emmett's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmettt-richardson&theme=github_dark&layout=compact&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Emmett's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Epitome87&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD)](https://git.io/streak-stats) -->
-
-### My Statistics
-
-<details>
-  <summary>Github Statistics...</summary>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=emmett-richardson&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats&border_radius=10&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmett-richardson&theme=github_dark&layout=compact&disable_animations=false&border_radius=10&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=emmett-richardson&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD&hide_border=true" />
-  </p>
-</details>
-<hr>
-
-
-<!--  Github Trophy Showcase - Hiding this until I get better trophies! -->
-<!-- ### Github Trophy Showcase
-[![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=emmett-richardson&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
- -->
